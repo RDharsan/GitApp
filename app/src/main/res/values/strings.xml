@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">prac1</string>
+    <string name="tv1">Hello World</string>
+    <string name="et1">enter name</string>
+    <string name="etn1">Enter Temperature</string>
+    <string name="rd_btn_C">Celcius</string>
+    <string name="rd_btn_F">Fahrenheit</string>
+    <string name="btn_cal">Calculate</string>
+</resources>
